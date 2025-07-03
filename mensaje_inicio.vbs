@@ -1,0 +1,1 @@
+MsgBox "Bienvenido al sistema. Recordá hacer backup diario.", vbInformation, "Soporte IT"
